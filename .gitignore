@@ -1,0 +1,12 @@
+# Gizli çevre değişkenleri (Asla paylaşılmaz)
+.env
+
+# Sanal ortam klasörü
+.venv/
+
+# Python derleme artıkları
+__pycache__/
+*.pyc
+
+# Docker yerel artıkları
+.docker/
