@@ -10,3 +10,4 @@ __pycache__/
 
 # Docker yerel artıkları
 .docker/
+*.pem
